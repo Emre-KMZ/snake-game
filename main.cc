@@ -1,4 +1,4 @@
-#include "SnakeEngine.hh"
+#include "SnakeGame.hh"
 
 int main(){
     SnakeGame game;
